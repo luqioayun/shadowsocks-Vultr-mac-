@@ -7,9 +7,8 @@ https://github.com/w910820618/shadowsocks
 https://github.com/shadowsocksrr/
 ### 1、vps服务器
 #### 1.1注册vultr账号以及充值
-Vultr注册新账号&一些优惠（白嫖）活动。
-<br>https://fly-uni.com/network/3994/
-<br>退款 https://www.56dr.com/info/43311.html
+Vultr注册新账号&一些优惠（白嫖）活动：<br>https://fly-uni.com/network/3994/
+<br>退款： https://www.56dr.com/info/43311.html
 #### 1.2购买服务器
 
 #### 1.3部署服务器
