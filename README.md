@@ -22,3 +22,5 @@ Vultr注册新账号&一些优惠（白嫖）活动：
 <br>centos7*64系统似乎有问题，无法使用yum install 命令，会报错14: curl#6 - "Could not resolve host: mirrorlist.centos.org; 未知的错误"
 <br>2）启动BBR加速上网：参考链接https://github.com/wenliuaurora/vpn
 ### 2、Shadowsocks客户端配置
+软件下载链接https://github.com/shadowsocks/ShadowsocksX-NG
+<br>有windows版本、macos版本、Android版本
