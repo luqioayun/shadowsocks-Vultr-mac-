@@ -18,4 +18,5 @@ Vultr注册新账号&一些优惠（白嫖）活动：
 <br>一些赠送活动的充值激活只支持部分付款方式，visa、银联unionpay信用卡、PayPal，支付宝不支持。
 #### 1.3部署服务器
 参考链接：https://github.com/moraaah/Vultr-Shadowsocks
+<br>启动BBR加速上网：参考链接https://github.com/wenliuaurora/vpn
 ### 2、Shadowsocks客户端配置
