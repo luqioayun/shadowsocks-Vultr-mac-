@@ -17,6 +17,8 @@ Vultr注册新账号&一些优惠（白嫖）活动：
 <br>3）直接充值。
 <br>一些赠送活动的充值激活只支持部分付款方式，visa、银联unionpay信用卡、PayPal，支付宝不支持。
 #### 1.3部署服务器
-参考链接：https://github.com/moraaah/Vultr-Shadowsocks
-<br>启动BBR加速上网：参考链接https://github.com/wenliuaurora/vpn
+1）部署socks服务
+<br>亲测有效的参考链接：https://github.com/moraaah/Vultr-Shadowsocks
+<br>centos7*64系统似乎有问题，无法使用yum install 命令，会报错14: curl#6 - "Could not resolve host: mirrorlist.centos.org; 未知的错误"
+<br>2）启动BBR加速上网：参考链接https://github.com/wenliuaurora/vpn
 ### 2、Shadowsocks客户端配置
