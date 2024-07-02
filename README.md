@@ -5,6 +5,7 @@
 <br>https://www.bilibili.com/video/BV1JA411u7mZ/?spm_id_from=autoNext&vd_source=38425f27a1de84f18208286c823432fc
 <br>https://github.com/w910820618/shadowsocks
 <br>https://github.com/shadowsocksrr/
+<br>https://github.com/frank-lam/vps-ss?tab=readme-ov-file
 ### 1、vps服务器
 #### 1.1注册vultr账号以及充值
 Vultr注册新账号&一些优惠（白嫖）活动：
