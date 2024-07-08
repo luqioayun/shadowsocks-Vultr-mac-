@@ -30,6 +30,8 @@ Vultr注册新账号&一些优惠（白嫖）活动：
 <br>ufw allow port/tcp 对指定port开放
 <br>ufw reload 重启防火墙
 <br>4）启动BBR加速上网：参考链接https://github.com/wenliuaurora/vpn
+<br>其它
+<br>当连一个服务器后，又想换另一个服务器，出现警告的时候，参考链接。https://zsyyblog.com/b5c4f68e.html
 ### 2、Shadowsocks客户端配置
 软件下载链接https://github.com/shadowsocks/ShadowsocksX-NG
 <br>有windows版本、macos版本、Android版本
